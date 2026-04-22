@@ -1,7 +1,3 @@
-تمام 🔥 هذا نفس الـ README مترجم بشكل احترافي للإنجليزي:
-
----
-
 # 🐾 Animal System (C++ OOP Project)
 
 ## 📌 Overview
